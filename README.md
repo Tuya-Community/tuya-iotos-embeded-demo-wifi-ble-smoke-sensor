@@ -1,4 +1,4 @@
-# Tuya IoTOS Embeded Demo WiFi & BLE Smoke Sensor 
+# Tuya IoTOS Embeded Demo WiFi & BLE Smart Smoke Sensor 
 
 [English](./README.md) | [中文](./README_zh.md) 
 
